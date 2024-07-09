@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534552407667",
+    "project_id": "test-quiz-a95f2",
+    "storage_bucket": "test-quiz-a95f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534552407667:android:79107a620ab7ae6c4a0406",
+        "android_client_info": {
+          "package_name": "com.example.sanika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_A09AEdRkzybb83Vt4HdOq_XqVi7whIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
